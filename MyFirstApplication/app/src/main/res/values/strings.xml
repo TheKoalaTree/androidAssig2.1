@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My FirstApplication</string>
+
+    <string name="name">Name</string>
+    <string name="outPut">  </string>
+    <string name="enter_number">Enter number</string>
+    <string name="meter">Meter</string>
+    <string name="celsius">Celsius</string>
+    <string name="kilograms">Kilogram</string>
+    <string-array name="unit">
+        <item>Meter</item>
+        <item>Celsius</item>
+        <item>Kilogram</item>
+    </string-array>
+
+</resources>
